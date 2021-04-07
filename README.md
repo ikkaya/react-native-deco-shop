@@ -2,7 +2,10 @@
 Simple application built with React Native to create the shopping list of home decoration items from Deco Shop store
 
 Screenshots of the app
+
 **Views on iOS device** 
+
+<img width="343" alt="Ekran Resmi 2021-04-07 14 50 34" src="https://user-images.githubusercontent.com/53608432/113862177-c334fc80-97b0-11eb-990f-6ee72dfc93fa.png">
 
 ![Simulator Screen Shot - iPhone 11 - 2021-04-06 at 14 24 15](https://user-images.githubusercontent.com/53608432/113859263-5f5d0480-97ad-11eb-8651-db81f0721dc7.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-04-06 at 14 24 45](https://user-images.githubusercontent.com/53608432/113859279-63892200-97ad-11eb-9dfa-db944ca0e859.png)
